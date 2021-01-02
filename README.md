@@ -1,4 +1,4 @@
-<p align="center"><img alt="coding" width="400" height="300" src="https://github.com/Turag1955/img/blob/main/download.png"/></p>
+<p align="center"><img alt="coding" width="300" height="300" src="https://github.com/Turag1955/img/blob/main/download.png"/></p>
 <br>
 
 <h1 align="center">Hi 👋, I'm Kawsar uddin Turag</h1>
