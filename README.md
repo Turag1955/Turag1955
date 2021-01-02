@@ -1,4 +1,4 @@
-<img align="middle"  alt="coding" width="400" src="https://github.com/Turag1955/img/blob/main/download.png"/>
+<img align="center" alt="coding" width="400" src="https://github.com/Turag1955/img/blob/main/download.png"/>
 <br>
 <br>
 <h1 align="center">Hi 👋, I'm Kawsar uddin Turag</h1>
