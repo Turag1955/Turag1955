@@ -1,3 +1,4 @@
+<img align="center" alt="coding" width="400" src="https://github.com/Turag1955/img/blob/main/download.png"/>
 <h1 align="center">Hi 👋, I'm Kawsar uddin Turag</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
