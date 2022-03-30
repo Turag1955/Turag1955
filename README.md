@@ -2,9 +2,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Kawsar uddin Turag</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
-
-- 🌱 I’m currently learning **Laravel**
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 - 💬 Ask me about **PHP**
 
