@@ -1,6 +1,6 @@
 # Hi, I'm Kawsar Uddin 👋
 
-**Software Engineer** from Dhaka, Bangladesh. For 5 years I've been building SaaS products and custom web applications with **Laravel** and **Vue.js**, and I also build **Shopify apps**.
+**Software Engineer at [iNiLabs](https://inilabs.net/) since 2021**, based in Dhaka, Bangladesh. For 5 years I've been building SaaS products and custom web applications with **Laravel** and **Vue.js**, and I also build **Shopify apps**.
 
 ### 🛠 What I work with
 
@@ -12,13 +12,20 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-### 💼 What I build
+**Deploy & host:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Linux VPS](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 💼 What I do
 
 - **SaaS & multi-tenant platforms**: restaurant ordering, e-commerce, school management, POS
 - **RESTful APIs and database design** for web and mobile apps
 - **Embedded Shopify apps** with Remix, Polaris, App Bridge and the GraphQL Admin API
+- **Beyond code**: analyse client requirements, estimate effort, and mentor junior developers
 
-### 🚀 Products I've contributed to (at [iNiLabs](https://inilabs.net/))
+### 🚀 Products I've contributed to (at iNiLabs)
 
 | Product | What it is | Sales on CodeCanyon |
 |---|---|---|
